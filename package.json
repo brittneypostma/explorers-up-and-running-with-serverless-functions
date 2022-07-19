@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "name": "explorers-up-and-running-with-serverless-functions",
   "version": "1.0.0",
   "description": "Learn how to use serverless functions in less than 30 minutes!",
@@ -17,6 +18,6 @@
   },
   "homepage": "https://github.com/netlify/explorers-up-and-running-with-serverless-functions#readme",
   "devDependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^3.2.9"
   }
 }
